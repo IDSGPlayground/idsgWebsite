@@ -1,4 +1,5 @@
 Idsg::Application.routes.draw do
+  get "users/new"
   get "pages/home"
   get "pages/help"
   root :to => "pages#home"
