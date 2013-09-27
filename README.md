@@ -13,3 +13,6 @@ Front-end Next Steps:
  1. Dashboard Design
 
 ...
+
+ALWAYS WRITE BDD TEST CASES BEFORE IMPLEMENTING
+
